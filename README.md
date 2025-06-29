@@ -12,7 +12,7 @@ The goal of StartupScope is to **make it easier for tech learners and early-care
 
 - Explore **what real startups are building**
 - Understand **what technologies they're using**
-- Discover **who’s hiring and what roles are in demand**
+- Discover **who's hiring and what roles are in demand**
 - Follow **founders, companies, and career pages**
 
 > Built with a focus on **intent validation**, **technical direction**, and **startup discovery** — StartupScope is like a radar for India’s startup ecosystem (and beyond).
@@ -137,6 +137,9 @@ Developer | ML Enthusiast | Building useful things
 
 * LinkedIn: [www.linkedin.com/in/arjun-pathania-6a9998157](www.linkedin.com/in/arjun-pathania-6a9998157)
 * GitHub: [github.com/ArjunPathania](https://github.com/ArjunPathania)
+📋 **Project Board**: 
+* [StartupScope Dev Roadmap](https://github.com/ArjunPathania/StartupScope/projects/1)
+
 
 ---
 
