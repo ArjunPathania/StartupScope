@@ -1,11 +1,17 @@
 [project]
-name = "backend"
+name = "startupscope-backend"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.13"
+
 dependencies = [
-    "fastapi[standard]>=0.115.14",
-    "sqlalchemy>=2.0.41",
-    "uvicorn[standard]>=0.35.0",
+  "fastapi",
+  "uvicorn[standard]",
+  "sqlalchemy",
+  "pydantic",
+  "sqlmodel"
 ]
+
+[build-system]
+requires = ["uv-pip"]
+build-backend = "uv-pip"
+
+

@@ -27,5 +27,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/api/ping")
+def ping():
+    return {"message": "pong from FastAPI"}
+
 # Register the versioned API router
 app.include_router(api_router, prefix="/api/v1")
+
