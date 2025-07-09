@@ -10,7 +10,12 @@ module.exports = {
     './nuxt.config.{js,ts}',
   ],
   theme: {
-    extend: {},
+    extend: {
+       fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+        heading: ['Poppins', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
